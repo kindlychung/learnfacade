@@ -1070,7 +1070,7 @@ function $h_Lvu_co_kaiyin_learnfacade_Main$() {
 $h_Lvu_co_kaiyin_learnfacade_Main$.prototype = $c_Lvu_co_kaiyin_learnfacade_Main$.prototype;
 $c_Lvu_co_kaiyin_learnfacade_Main$.prototype.main__V = (function() {
   var mydiv = $g["document"]["getElementById"]("#mydiv");
-  mydiv["innerHTML"] = ("<b></b>" + $uI($g["myfunctions"]["myadd"](1, 2)))
+  mydiv["innerHTML"] = ("<b></b>" + $uI($g["myadd"](1, 2)))
 });
 $c_Lvu_co_kaiyin_learnfacade_Main$.prototype.$$js$exported$prop$main__O = (function() {
   this.main__V()
